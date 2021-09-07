@@ -1,6 +1,7 @@
 # Typescript with React
 
 Learn typescript with react  
+learning from : nomadcoders(https://nomadcoders.co/react-for-beginners/)
   
 typescript : javascript의 superset  
 tsconfig rules : typescript가 얼마나 strict할지 수정 가능  
