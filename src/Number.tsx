@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Container = styled.span<{isRed: boolean}>`
   font-size: 50px;
-  color: ${props => (props.isRed ? "red" : "black")};
+  color: ${props => (props.isRed ? props.theme.redColor : "black")};
 `;
 
 interface IProps {
